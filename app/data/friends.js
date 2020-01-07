@@ -11,5 +11,14 @@ var friends = [
     photo:
       "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjUqLjwoenmAhXNqZ4KHYOYAkkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.popularmechanics.com%2Fculture%2Ftv%2Fa28719957%2Fewan-mcgregor-obi-wan-kenobi-tv-show%2F&psig=AOvVaw1vfdGh1Q4VLia4WrMv0m7D&ust=1578203894455636",
     score: [3, 4, 1, 5, 5, 4, 5, 3, 1, 3]
+  },
+
+  {
+    name: "Robert Downey Jr.",
+    photo:
+      "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjY9rTnvuvmAhVOrJ4KHcQnAI0QjRx6BAgBEAQ&url=https%3A%2F%2Fmovieweb.com%2Favengers-endgame-behind-the-scenes-video-tony-stark-snap%2F&psig=AOvVaw1LFhhQ46y8MvF4NwB-oa4j&ust=1578280349831554",
+    score: [1, 2, 3, 3, 4, 5, 4, 5, 1, 3]
   }
 ];
+
+module.exports = friends;
